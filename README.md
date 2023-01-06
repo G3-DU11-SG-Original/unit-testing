@@ -42,4 +42,4 @@ Well, that's about enough of that. Let's gets started!!!
 
 ## 🤝 Contributing
 
-<td align="center"><a href="https://github.com/funnytam1019"><img src="https://avatars.githubusercontent.com/u/94522642?s=400&v=4" border-radius="50%" width="50px" title='https://github.com/funnytam1019'/><br />
+<td align="center"><a href="https://github.com/funnytam1019"><img src="https://avatars.githubusercontent.com/u/94522642?s=400&v=4" width="50px" title='https://github.com/funnytam1019'/><br/>
