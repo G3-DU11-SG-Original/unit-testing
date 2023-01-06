@@ -36,7 +36,7 @@ What we simply do is adding more examples, code and explaining why some of the d
 Well, that's about enough of that. Let's gets started!!!
 
 ## Why unit test
-<img src="https://www.guru99.com/images/1/Unit-Testing.png">
+<img src="https://www.guru99.com/images/1/Unit-Testing.png" align='center'>
 There is different layers of testing before a source code is production ready. 
 Testing is basically a way to future proofing any potential risk that we might encouters. And unit testing is that very first layer.
 
