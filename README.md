@@ -36,6 +36,17 @@ What we simply do is adding more examples, code and explaining why some of the d
 Well, that's about enough of that. Let's gets started!!!
 
 ## Why unit test
+<img src="https://www.guru99.com/images/1/Unit-Testing.png">
+There is different layers of testing before a source code is production ready. 
+Testing is basically a way to future proofing any potential risk that we might encouters. And unit testing is that very first layer.
+
+To sum up:
+- Unit tests help to fix bugs early in the development cycle and save costs.
+- It helps the developers to understand the testing code base and enables them to make changes quickly
+- Good unit tests serve as project documentation
+- Unit tests help with code re-use. Migrate both your code and your tests to your new project. Tweak the code until the tests run again.
+
+
 
 
 
