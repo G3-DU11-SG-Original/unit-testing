@@ -17,7 +17,7 @@ The repo will have coding examples as well as theory about testing.
 ## Table of Contents
 
 ### Introduction to unit testing
-- [Why unit test](#why-unit-test)
+- [Why unit test?](#why-unit-test)
 - [How to execute unit test](#how-to-execute-unit-test)
 - [Unit Testing Techniques](#unit-testing-techniques)
 - [Test Driven Development (TDD)](#test-driven-development)
@@ -28,11 +28,14 @@ The repo will have coding examples as well as theory about testing.
 ## Introduction of unit testing
 The following content is written with Thomas Hamilton in mind, as this was based on the article that was very detailed
 and easy to follow here [Unit Testing Tutorial – What is, Types & Test Example](https://www.guru99.com/unit-testing-guide.html).
+
 Please read it first if you want to read the original article.
 
 What we simply do is adding more examples, code and explaining why some of the decisions is made during unit testing. 
 
 Well, that's about enough of that. Let's gets started!!!
+
+## Why unit test
 
 
 
