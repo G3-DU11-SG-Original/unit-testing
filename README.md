@@ -40,6 +40,8 @@ Well, that's about enough of that. Let's gets started!!!
 There is different layers of testing before a source code is production ready. 
 Testing is basically a way to future proofing any potential risk that we might encouters. And unit testing is that very first layer.
 
+
+
 To sum up:
 - Unit tests help to fix bugs early in the development cycle and save costs.
 - It helps the developers to understand the testing code base and enables them to make changes quickly
