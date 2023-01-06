@@ -17,17 +17,17 @@ The repo will have coding examples as well as theory about testing.
 ## Table of Contents
 
 ### Introduction to unit testing
-- [Why unit test] (#why-unit-test)
-- [How to execute unit test] (#how-to-execute-unit-test)
-- [Unit Testing Techniques] (#unit-testing-techniques)
-- [Test Driven Development (TDD)) (#test-driven-development)
-- [Advantages of Unit Testing] (#advantages-of-unit-testing)
-- [Disadvantages of Unit Testing] (#disadvantages-of-unit-testing)
-- [Best Practives] (#best-practices)
+- [Why unit test](#why-unit-test)
+- [How to execute unit test](#how-to-execute-unit-test)
+- [Unit Testing Techniques](#unit-testing-techniques)
+- [Test Driven Development (TDD)](#test-driven-development)
+- [Advantages of Unit Testing](#advantages-of-unit-testing)
+- [Disadvantages of Unit Testing](#disadvantages-of-unit-testing)
+- [Best Practives](#best-practices)
 
 ## Introduction of unit testing
 The following content is written with Thomas Hamilton in mind, as this was based on the article that was very detailed
-and easy to follow here [Unit Testing Tutorial – What is, Types & Test Example] (https://www.guru99.com/unit-testing-guide.html).
+and easy to follow here [Unit Testing Tutorial – What is, Types & Test Example](https://www.guru99.com/unit-testing-guide.html).
 Please read it first if you want to read the original article.
 
 What we simply do is adding more examples, code and explaining why some of the decisions is made during unit testing. 
