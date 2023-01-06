@@ -4,8 +4,6 @@ This is a simple guide on how to design unit testing more efficiently.
 
 </div>
 
-![](https://github.com/nghialthanh/Queen-night/blob/main/logo/Capture.PNG?raw=true)
-
 ## ✨ Description
 Testing for all types are important and very crucial during software development.
 These knowledge are gather from around the internet and as well as personal experience.
